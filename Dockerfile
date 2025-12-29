@@ -1,4 +1,4 @@
 FROM eclipse-temurin:17-jre
 WORKDIR /app
-COPY target/java-demo-app-1.0.0.jar app.jar
-ENTRYPOINT ["java","-jar","app.jar"]
+COPY target/*.jar app.jar
+ENTRYPOINT ["java", "-jar", "app.jar"]

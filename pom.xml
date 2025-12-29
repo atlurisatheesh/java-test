@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 <!-- <project xmlns="http://maven.apache.org/POM/4.0.0"
+=======
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+>>>>>>> 6f8b4644638a594032b9b51c0e873c73d38b121d
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0
          http://maven.apache.org/xsd/maven-4.0.0.xsd">
@@ -15,6 +19,7 @@
         <maven.compiler.target>17</maven.compiler.target>
     </properties>
 
+<<<<<<< HEAD
 </project> -->
 
 <project xmlns="http://maven.apache.org/POM/4.0.0"
@@ -61,4 +66,6 @@
 
     </dependencies>
 
+=======
+>>>>>>> 6f8b4644638a594032b9b51c0e873c73d38b121d
 </project>
